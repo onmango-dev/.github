@@ -1,11 +1,11 @@
-## Mongloom
-`Mongloom` holds the repositories for the [Mango Engine](https://mango.koloja.dev/) and related projects.
+## Lumen Engine
+`Lumen Engine` holds the repositories for the `Lumen` realted and related projects.
 
-The [Mango Engine](https://mango.koloja.dev/) is a multiplayer and single-player server based game engine for built for developers and consumers. With a wide range of supported features available in your choice of language.
+The [Lumen Engine](https://discord.gg/KRRybNJ5Cp/) is a multiplayer and single-player server based game engine for built for developers and consumers. With a wide range of supported features available in your choice of language.
 
 All the repositories you will need have been listed below:
 
- - [Issue Page](https://github.com/mongloom/issues)
- - [Protocol Specifications](https://github.com/mongloom/protocol)
+ - [Issue Page](https://github.com/lumen-engine/issues)
+ - [Protocol Specifications](https://github.com/lumen-engine/protocol)
 
-(Please note that the [Mango Engine](https://mango.koloja.dev/) is closed source! This may change in the future.)
+(Please note that the [Lumen Engine](https://discord.gg/KRRybNJ5Cp/) is closed source! This may change in the future.)
