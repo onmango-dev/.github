@@ -1,4 +1,4 @@
-> [!NOTE]  
+> [!IMPORTANT]  
 > The Mango Engine is in very early development stages.
 
 ---
